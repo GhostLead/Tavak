@@ -1,0 +1,48 @@
+table, th, td, tr{
+    border-radius: 5px;
+    box-shadow: 1px;
+    height: 120%;
+    
+}
+
+table {
+    border: 2px solid black;
+}
+td, th {
+    
+    text-align: center;
+}
+
+#elso {
+    color: red;
+    
+}
+ 
+#masodik {
+    color: red;
+}
+
+#harmadik {
+    color: red;
+}
+
+.valami {
+    background-color: lightgrey;
+}
+
+.valami2 {
+    background-color: rgb(155, 156, 238);
+}
+
+.valami3 {
+    background-color:rgb(175, 189, 224);
+}
+
+.velence {
+    background-color: rgb(189, 188, 188)
+}
+
+img {
+    border-radius: 8%;
+
+}
